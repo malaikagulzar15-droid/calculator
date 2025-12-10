@@ -39,16 +39,12 @@ return(
             <button onClick={Back} className="operator">Back</button>
             <button onClick={Calculation} className="equal">=</button>
             <button onClick={getValue} value="/" className="operator">/</button>
-
         </div>
     </div>
 )
     // useContext
     // Todo App.
     // Git
-
-    
-
 }
 export default Calculator
 
